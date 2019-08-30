@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# Julia Vogele's First CS193 Homework
+What I like about CS193
+- The TA's are funny
+- Our iClicker Quizzes are entertaining
+- The TA's are very approachable
+- I slightlty know what's going on
+- It's more fun than my other classes
+
+## Welcome to Github Pages 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
